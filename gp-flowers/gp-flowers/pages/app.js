@@ -1,5 +1,5 @@
 // pages/_app.js
-import './index.css'
+//import './index.css'
 
 export default function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
